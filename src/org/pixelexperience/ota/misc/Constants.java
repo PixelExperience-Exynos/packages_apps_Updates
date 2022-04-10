@@ -30,8 +30,8 @@ public final class Constants {
     static final String PROP_AB_DEVICE = "ro.build.ab_update";
     static final String PROP_DEVICE = "org.pixelexperience.device";
     static final String PROP_BUILD_VERSION = "org.pixelexperience.version";
-    static final String OTA_URL = "https://raw.githubusercontent.com/PixelExperience-Exynos/OTA/master/12.1/%s.json";
+    static final String OTA_URL = "https://raw.githubusercontent.com/PixelExperience-Exynos/OTA/master/12.1/Plus/%s.json";
     static final String MAINTAINER_URL = "https://github.com/PixelExperience-Exynos/OTA";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/PixelExperience-Exynos/OTA/master/12.1/changelog/changelog_%s.txt";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/PixelExperience-Exynos/OTA/master/12.1/Plus/changelog/changelog_%s.txt";
     static final String EXPORT_PATH = "PixelExperience-Updates/";
 }
